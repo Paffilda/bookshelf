@@ -404,3 +404,9 @@ Seznámení a první kroky v linuxovém operačním systému Fedora
 * Aktuálně u: @Paffilda
 
 [python-for-kids]: https://www.nostarch.com/pythonforkids
+
+### Jake VanderPlas: [Python Data Science Hadnbook][python-data-science-handbook]
+* Majitel: @encukou
+* Aktuálně u: @Paffilda
+
+[python-data-science-handbook]: http://shop.oreilly.com/product/0636920034919.do
